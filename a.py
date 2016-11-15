@@ -5,3 +5,4 @@ if __name__ == '__main__':
     u = [1,2,3,4]
     f(u)
     print(u)
+askjsa
